@@ -1,0 +1,20 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  #- title: "News"
+  #  url: /news/  
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Seminar"
+    url: /seminar/
+
+  - title: "Resume"
+    url: /files/main.pdf
+    
