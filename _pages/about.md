@@ -52,7 +52,7 @@ My research interests include:
 
 ## Pre-prints
 * W. Li, **D. Qiao**, B. Wang, X. Wang, B. Jin, H. Zha, &quot;[Semantically Aligned Task Decomposition in Multi-Agent Reinforcement Learning](https://qiaodan-cuhk.github.io)&quot;. Preprint, 2023.  [[pdf](https://arxiv.org/pdf/2305.10865.pdf)]
-* 
+  
 * **D. Qiao**, J. Zhang*, Y. Zhang, S. Xiao, H. Chen, &quot;[Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems](https://qiaodan-cuhk.github.io)&quot;. Preprint, 2022. [[project page](https://qiaodan-cuhk.github.io)] [[pdf](https://qiaodan-cuhk.github.io)] 
 
 * **D. Qiao**, Z. Peng*, G. Wen, T. Huang, &quot;[Novel Saturated Nussbaum-type Function based Adaptive Distributed Consensus Control of Multi-agent Systems with Unknown Arbitrary Control Directions](https://arxiv.org/abs/2201.09453v1)&quot;. Preprint arXiv:2201.09453, 2022. [[project page](https://qiaodan-cuhk.github.io)] [[pdf](https://arxiv.org/pdf/2201.09453.pdf)] 
