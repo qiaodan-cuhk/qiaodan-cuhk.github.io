@@ -27,8 +27,8 @@ Before that, I worked as a research assistant with Prof. [Junge Zhang](http://pe
 
 ## News
 
-* **[May 10, 2023]** The paper about Automatic Subgoal Generation (ASG) of MARL with LLM was uploaded to arxiv [paper](https://arxiv.org/pdf/2305.10865.pdf).
-* **[Jan 24, 2022]** The paper about Nussbaum functions-based consensus control of MAS was uploaded to arxiv [paper](https://arxiv.org/pdf/2201.09453.pdf).
+* **[May 10, 2023]** The paper about Automatic Subgoal Generation (ASG) of MARL with LLM was uploaded to arxiv. [paper](https://arxiv.org/pdf/2305.10865.pdf)
+* **[Jan 24, 2022]** The paper about Nussbaum functions-based consensus control of MAS was uploaded to arxiv. [paper](https://arxiv.org/pdf/2201.09453.pdf)
 
 ## Research Interests
 
