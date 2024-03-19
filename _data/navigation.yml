@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   #- title: "News"
   #  url: /news/  
@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Seminar"
-    url: /seminar/
+  # - title: "Seminar"
+  #   url: /seminar/
 
   - title: "Resume"
     url: /files/main.pdf
