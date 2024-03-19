@@ -15,9 +15,9 @@ redirect_from:
 
 ## About me 
 
-I’m currently a Ph.D student advised by Assistant Prof. [Baoxiang Wang](https://bxiangwang.github.io) and Prof. [Hongyuan Zha](https://faculty.cc.gatech.edu/~zha/) at the School of Data Science, the Chinese University of Hong Kong, Shenzhen (CUHKSZ). I work on the area of **reinforcement learning**, **multi-agent systems**, and **social systems**.
+I’m currently a Ph.D. student advised by Assistant Prof. [Baoxiang Wang](https://bxiangwang.github.io) and Prof. [Hongyuan Zha](https://sds.cuhk.edu.cn/teacher/65) at the [School of Data Science](https://sds.cuhk.edu.cn/en), [the Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en). I work in the area of **reinforcement learning**, **multi-agent systems**, and **social systems**. For more details, please refer to my [google scholar](https://scholar.google.com/citations?user=YwyDZVcAAAAJ&hl=zh-CN&oi=ao).
 
-Before that, I worked as a research assistant with Prof. [Junge Zhang](http://people.ucas.ac.cn/~ZHANGJUNGE) in the Institute of Automation, Chinese Academy of Sciences (CASIA). I got my Master Degree and B.Eng. Degree from Automotive Engineering, advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.htm), at School of Transportation Science and Engineering, Beihang University in 2021 and 2018 respectively.
+Before that, I worked as a research assistant with Prof. [Junge Zhang](http://people.ucas.ac.cn/~ZHANGJUNGE) at the Institute of Automation, Chinese Academy of Sciences (CASIA). I got my Master's Degree and B.Eng. Degree in Automotive Engineering, advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.htm), at the School of Transportation Science and Engineering, Beihang University in 2021 and 2018 respectively. 
 
 ## Education
 
@@ -27,22 +27,22 @@ Before that, I worked as a research assistant with Prof. [Junge Zhang](http://pe
 
 ## News
 
-* **[Aug 13, 2022]** The paper about Nussbaum functions based consensus control of MAS was submitted to TSMC.
-* **[July 22, 2022]** The paper about differential privacy in MARL was submitted to TNNLS.
+* **[May 10, 2023]** The paper about Automatic Subgoal Generation (ASG) of MARL with LLM was uploaded to arxiv. [paper](https://arxiv.org/pdf/2305.10865.pdf)
+* **[Jan 24, 2022]** The paper about Nussbaum functions-based consensus control of MAS was uploaded to arxiv. [paper](https://arxiv.org/pdf/2201.09453.pdf)
 
 ## Research Interests
 
 My research interests include:
 * Multi-agent Reinforcement Learning
-* Social Dilemma
-* Complex Networks
-* Multi-robot Cooperative Control
+* Sequetial Social Dilemma
+* Diffusion Models
 
 
 
 
 
-<!-- Always open to research interns, cooperation and review opportunities. Feel free to reach out to me if you are interested. My email address is `huangsiteng [at] westlake.edu.cn`.
+
+<!-- Always open to research interns, cooperation, and review opportunities. Feel free to reach out to me if you are interested. My email address is `huangsiteng [at] westlake.edu.cn`.
 {: .notice--info} -->
 
  <!-- **Hiring**: We are looking for **postdoctors, research assistants and visiting students for MiLAB** (currently only for Chinese). More information about requirements can be found [here](https://milab.westlake.edu.cn/contact.html), and if you are still in school, being a visiting student is also welcome. Please send email to `mi_lab [at] westlake.edu.cn` with your CV if you are interested. Specially, if you are interested in my research direction and would like to be my collaborator after coming, please specify in the email and also send a copy to me.
@@ -51,14 +51,16 @@ My research interests include:
 
 
 ## Pre-prints
-* **D. Qiao**, J. Zhang*, Y. Zhang, S. Xiao, H. Chen, &quot;[Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems](https://qiaodan-cuhk.github.io)&quot;. Preprint, 2022. [[project page](https://qiaodan-cuhk.github.io)] [[pdf](https://qiaodan-cuhk.github.io)] [[code](https://qiaodan-cuhk.github.io)][[code](https://qiaodan-cuhk.github.io)]
+* W. Li, **D. Qiao**, B. Wang, X. Wang, B. Jin, H. Zha, &quot;[Semantically Aligned Task Decomposition in Multi-Agent Reinforcement Learning](https://qiaodan-cuhk.github.io)&quot;. Preprint, 2023.  [[pdf](https://arxiv.org/pdf/2305.10865.pdf)]
+  
+* **D. Qiao**, J. Zhang*, Y. Zhang, S. Xiao, H. Chen, &quot;[Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems](https://qiaodan-cuhk.github.io)&quot;. Preprint, 2022. [[pdf](https://qiaodan-cuhk.github.io)] 
 
-* **D. Qiao**, Z. Peng*, G. Wen, T. Huang, &quot;[Novel Saturated Nussbaum-type Function based Adaptive Distributed Consensus Control of Multi-agent Systems with Unknown Arbitrary Control Directions](https://arxiv.org/abs/2201.09453v1)&quot;. Preprint arXiv:2201.09453, 2022. [[project page](https://qiaodan-cuhk.github.io)] [[pdf](https://qiaodan-cuhk.github.io)] [[code](https://qiaodan-cuhk.github.io)]
+* **D. Qiao**, Z. Peng*, G. Wen, T. Huang, &quot;[Novel Saturated Nussbaum-type Function based Adaptive Distributed Consensus Control of Multi-agent Systems with Unknown Arbitrary Control Directions](https://arxiv.org/abs/2201.09453v1)&quot;. Preprint arXiv:2201.09453, 2022. [[pdf](https://arxiv.org/pdf/2201.09453.pdf)] 
 
 
 ## Publications
 
-* S. Yang, Y. Hua, **D. Qiao**, Y. Lian, Y. Pan*, Y. He, &quot;[A coupled electrochemical-thermal-mechanical degradation modelling approach for lifetime assessment of lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S0013468619317992)&quot;. Electrochimica Acta, Vol. 326, Dec. 2019, 134928. [[project page](https://qiaodan-cuhk.github.io)] [[pdf](https://qiaodan-cuhk.github.io)] [[code](https://qiaodan-cuhk.github.io)]
+* S. Yang, Y. Hua, **D. Qiao**, Y. Lian, Y. Pan*, Y. He, &quot;[A coupled electrochemical-thermal-mechanical degradation modelling approach for lifetime assessment of lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S0013468619317992)&quot;. Electrochimica Acta, Vol. 326, Dec. 2019, 134928. [[pdf](https://www.sciencedirect.com/science/article/pii/S0013468619317992)] 
 
 <!-- * **Siteng Huang**, Min Zhang, Yachen Kang, Donglin Wang, &quot;[Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16957)&quot;. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (**AAAI 2021**). [[project page](https://kyonhuang.top/publication/attributes-guided-attention-module)] [[arXiv](https://arxiv.org/abs/2009.04724)] [[bib](https://kyonhuang.top/publication/attributes-guided-attention-module#bibtex)] [[code](https://github.com/bighuang624/AGAM)] [[poster](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf)] [[slide](https://kyonhuang.top/files/AGAM/aaai21-AGAM-presentation.pdf)]
 
