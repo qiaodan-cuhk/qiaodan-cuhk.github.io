@@ -15,9 +15,9 @@ redirect_from:
 
 ## About me 
 
-I’m currently a Ph.D. student advised by Assistant Prof. [Baoxiang Wang](https://bxiangwang.github.io) and Prof. [Hongyuan Zha](https://sds.cuhk.edu.cn/teacher/65) at the [School of Data Science](https://sds.cuhk.edu.cn/en), [the Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en). I work in the area of **reinforcement learning**, **multi-agent systems**, and **social systems**. For more details, please refer to my [google scholar](https://scholar.google.com/citations?user=YwyDZVcAAAAJ&hl=zh-CN&oi=ao).
+I’m currently a year-2 Ph.D. student advised by Assistant Prof. [Baoxiang Wang](https://bxiangwang.github.io) and Prof. [Hongyuan Zha](https://sds.cuhk.edu.cn/teacher/65) in the [School of Data Science](https://sds.cuhk.edu.cn/en) at the [Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en). My research interests mainly focus on **multi-agent reinforcement learning**, **multi-agent systems**, and **social systems**. For more details, please refer to my [google scholar](https://scholar.google.com/citations?user=YwyDZVcAAAAJ&hl=zh-CN&oi=ao).
 
-Before that, I worked as a research assistant with Prof. [Junge Zhang](http://people.ucas.ac.cn/~ZHANGJUNGE) at the Institute of Automation, Chinese Academy of Sciences (CASIA). I got my Master's Degree and B.Eng. Degree in Automotive Engineering, advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.htm), at the School of Transportation Science and Engineering, Beihang University in 2021 and 2018 respectively. 
+Before that, I worked as a research assistant with Prof. [Junge Zhang](http://people.ucas.ac.cn/~ZHANGJUNGE) at the Institute of Automation, Chinese Academy of Sciences (CASIA). I got my Master's Degree and B.Eng. Degree in Automotive Engineering, advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.html), at the School of Transportation Science and Engineering, Beihang University in 2021 and 2018 respectively. I was fortunate to advised by Dr. [Wenhao Li](https://scholar.google.com/citations?user=HAtzuaYAAAAJ&hl=zh-CN&oi=sra) in SDS, CUHKSZ and Shenzhen Institute of Artificial Intelligence and Robotics for Society ([AIRS](https://airs.cuhk.edu.cn)).
 
 ## Education
 
@@ -36,9 +36,6 @@ My research interests include:
 * Multi-agent Reinforcement Learning
 * Sequetial Social Dilemma
 * Diffusion Models
-
-
-
 
 
 
