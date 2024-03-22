@@ -6,7 +6,7 @@ main:
   #- title: "News"
   #  url: /news/  
 
-  - title: "Talks"
+  - title: "Presentations"
     url: /talks/    
 
   - title: "Teaching"
@@ -16,5 +16,5 @@ main:
   #   url: /seminar/
 
   - title: "Resume"
-    url: /files/main.pdf
+    url: /files/Dan_Resume_cuhksz.pdf
     
