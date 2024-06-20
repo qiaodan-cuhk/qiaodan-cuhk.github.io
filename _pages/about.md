@@ -62,7 +62,7 @@ My research interests include:
 
 ## Publications
 
-* W. Li, **D. Qiao**, B. Wang, X. Wang, B. Jin, H. Zha, &quot;[Semantically Aligned Task Decomposition in Multi-Agent Reinforcement Learning](https://sites.google.com/view/workshop-fm-game/home#h.8aeu0j7s766y)&quot;. Preprint, 2023.  [[pdf](https://arxiv.org/pdf/2305.10865.pdf)]
+* W. Li, **D. Qiao**, B. Wang, X. Wang, B. Jin, H. Zha, &quot;[Semantically Aligned Task Decomposition in Multi-Agent Reinforcement Learning](https://sites.google.com/view/workshop-fm-game/home#h.8aeu0j7s766y)&quot;. EC 2024 Workshop, 2024.  [[pdf](https://arxiv.org/pdf/2305.10865.pdf)]
 
 * S. Yang, Y. Hua, **D. Qiao**, Y. Lian, Y. Pan*, Y. He, &quot;[A coupled electrochemical-thermal-mechanical degradation modelling approach for lifetime assessment of lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S0013468619317992)&quot;. Electrochimica Acta, Vol. 326, Dec. 2019, 134928. [[pdf](https://www.sciencedirect.com/science/article/pii/S0013468619317992)] 
 
