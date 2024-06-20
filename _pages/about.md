@@ -14,14 +14,14 @@ redirect_from:
 
 > To have the freedom of the heart and an open mind. To take all the paths that humanity has walked around the world, they must be considered as one of the paths I have walked;
 > Have a vision that can surpass what you haven't seen before. Think of a way to imagine what the world could be like in a place I haven't seen.
-> -- [Xu Zhuoyun](https://en.wikipedia.org/wiki/Cho-yun_Hsu)
+> -- [Prof. Xu Zhuoyun](https://en.wikipedia.org/wiki/Cho-yun_Hsu)
 
 
 ## About me 
 
-I’m currently a year-2 Ph.D. student advised by Assistant Prof. [Baoxiang Wang](https://bxiangwang.github.io) and Prof. [Hongyuan Zha](https://sds.cuhk.edu.cn/en/teacher/65) in the [School of Data Science](https://sds.cuhk.edu.cn/en) at the [Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en). My research interests mainly focus on **multi-agent reinforcement learning**, **multi-agent systems**, and **social systems**. For more details, please refer to my [google scholar](https://scholar.google.com/citations?user=YwyDZVcAAAAJ&hl=zh-CN&oi=ao).
+I’m currently a year-2 Ph.D. student advised by Assistant Prof. [Baoxiang Wang](https://bxiangwang.github.io) and Prof. [Hongyuan Zha](https://scholar.google.com/citations?user=n1DQMIsAAAAJ&hl=en&oi=ao) in the [School of Data Science](https://sds.cuhk.edu.cn/en) at the [Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en). My research interests mainly focus on **multi-agent reinforcement learning**, **multi-agent systems**, and **social systems**. For more details, please refer to my [google scholar](https://scholar.google.com/citations?user=YwyDZVcAAAAJ&hl=zh-CN&oi=ao).
 
-Before that, I worked as a research assistant with Prof. [Junge Zhang](http://people.ucas.ac.cn/~ZHANGJUNGE) at the Institute of Automation, Chinese Academy of Sciences (CASIA). I got my Master's Degree and B.Eng. Degree in Automotive Engineering, advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.html), at the School of Transportation Science and Engineering, Beihang University in 2021 and 2018 respectively. I was fortunate to advised by Dr. [Wenhao Li](https://scholar.google.com/citations?user=HAtzuaYAAAAJ&hl=zh-CN&oi=sra) in SDS, CUHKSZ and Shenzhen Institute of Artificial Intelligence and Robotics for Society ([AIRS](https://airs.cuhk.edu.cn)).
+Before that, I worked as a research assistant with Prof. [Junge Zhang](https://scholar.google.com/citations?user=gbStvusAAAAJ&hl=en&oi=ao) at the Institute of Automation, Chinese Academy of Sciences (CASIA). I got my Master's Degree and B.Eng. Degree in Automotive Engineering, advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.html), at the School of Transportation Science and Engineering, Beihang University in 2021 and 2018 respectively. I was fortunate to advised by Dr. [Wenhao Li](https://scholar.google.com/citations?user=HAtzuaYAAAAJ&hl=en&oi=ao) in SDS, CUHKSZ and Shenzhen Institute of Artificial Intelligence and Robotics for Society ([AIRS](https://airs.cuhk.edu.cn)).
 
 ## Education
 
