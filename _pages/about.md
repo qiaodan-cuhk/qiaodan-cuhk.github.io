@@ -27,7 +27,7 @@ Before that, I worked as a research assistant with Prof. [Junge Zhang](http://pe
 
 ## News
 
-* **[May 10, 2023]** The paper about Automatic Subgoal Generation (ASG) of MARL with LLM was uploaded to arxiv. [paper](https://arxiv.org/pdf/2305.10865.pdf)
+* **[June 14, 2024]** The paper about Automatic Subgoal Generation (ASG) of MARL with LLM was accepted by [EC 2024 Workshop on Foundation Models and Game Theory](https://sites.google.com/view/workshop-fm-game/home#h.8aeu0j7s766y). [paper](https://arxiv.org/pdf/2305.10865.pdf)
 * **[Jan 24, 2022]** The paper about Nussbaum functions-based consensus control of MAS was uploaded to arxiv. [paper](https://arxiv.org/pdf/2201.09453.pdf)
 
 ## Research Interests
@@ -48,14 +48,16 @@ My research interests include:
 
 
 ## Pre-prints
-* W. Li, **D. Qiao**, B. Wang, X. Wang, B. Jin, H. Zha, &quot;[Semantically Aligned Task Decomposition in Multi-Agent Reinforcement Learning](https://qiaodan-cuhk.github.io)&quot;. Preprint, 2023.  [[pdf](https://arxiv.org/pdf/2305.10865.pdf)]
+
   
-* **D. Qiao**, J. Zhang*, Y. Zhang, S. Xiao, H. Chen, &quot;[Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems](https://qiaodan-cuhk.github.io)&quot;. Preprint, 2022. [[pdf](https://qiaodan-cuhk.github.io)] 
+* **D. Qiao**, J. Zhang*, Y. Zhang, S. Xiao, H. Chen, &quot;Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems &quot;. Preprint, 2022. [[pdf](https://qiaodan-cuhk.github.io/files/DPMARL_draft.pdf)] Chinese Patent
 
 * **D. Qiao**, Z. Peng*, G. Wen, T. Huang, &quot;[Novel Saturated Nussbaum-type Function based Adaptive Distributed Consensus Control of Multi-agent Systems with Unknown Arbitrary Control Directions](https://arxiv.org/abs/2201.09453v1)&quot;. Preprint arXiv:2201.09453, 2022. [[pdf](https://arxiv.org/pdf/2201.09453.pdf)] 
 
 
 ## Publications
+
+* W. Li, **D. Qiao**, B. Wang, X. Wang, B. Jin, H. Zha, &quot;[Semantically Aligned Task Decomposition in Multi-Agent Reinforcement Learning](https://sites.google.com/view/workshop-fm-game/home#h.8aeu0j7s766y)&quot;. Preprint, 2023.  [[pdf](https://arxiv.org/pdf/2305.10865.pdf)]
 
 * S. Yang, Y. Hua, **D. Qiao**, Y. Lian, Y. Pan*, Y. He, &quot;[A coupled electrochemical-thermal-mechanical degradation modelling approach for lifetime assessment of lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S0013468619317992)&quot;. Electrochimica Acta, Vol. 326, Dec. 2019, 134928. [[pdf](https://www.sciencedirect.com/science/article/pii/S0013468619317992)] 
 
