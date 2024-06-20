@@ -12,10 +12,14 @@ redirect_from:
 > 要有一个远见，能超越你未见。要想办法设想，我没见到的地方，那个世界还有可能什么样。
 > —— 许倬云
 
+> To have the freedom of the heart and an open mind. To take all the paths that humanity has walked around the world, they must be considered as one of the paths I have walked;
+> Have a vision that can surpass what you haven't seen before. Think of a way to imagine what the world could be like in a place I haven't seen.
+> -- [Xu Zhuoyun](https://en.wikipedia.org/wiki/Cho-yun_Hsu)
+
 
 ## About me 
 
-I’m currently a year-2 Ph.D. student advised by Assistant Prof. [Baoxiang Wang](https://bxiangwang.github.io) and Prof. [Hongyuan Zha](https://sds.cuhk.edu.cn/teacher/65) in the [School of Data Science](https://sds.cuhk.edu.cn/en) at the [Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en). My research interests mainly focus on **multi-agent reinforcement learning**, **multi-agent systems**, and **social systems**. For more details, please refer to my [google scholar](https://scholar.google.com/citations?user=YwyDZVcAAAAJ&hl=zh-CN&oi=ao).
+I’m currently a year-2 Ph.D. student advised by Assistant Prof. [Baoxiang Wang](https://bxiangwang.github.io) and Prof. [Hongyuan Zha](https://sds.cuhk.edu.cn/en/teacher/65) in the [School of Data Science](https://sds.cuhk.edu.cn/en) at the [Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en). My research interests mainly focus on **multi-agent reinforcement learning**, **multi-agent systems**, and **social systems**. For more details, please refer to my [google scholar](https://scholar.google.com/citations?user=YwyDZVcAAAAJ&hl=zh-CN&oi=ao).
 
 Before that, I worked as a research assistant with Prof. [Junge Zhang](http://people.ucas.ac.cn/~ZHANGJUNGE) at the Institute of Automation, Chinese Academy of Sciences (CASIA). I got my Master's Degree and B.Eng. Degree in Automotive Engineering, advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.html), at the School of Transportation Science and Engineering, Beihang University in 2021 and 2018 respectively. I was fortunate to advised by Dr. [Wenhao Li](https://scholar.google.com/citations?user=HAtzuaYAAAAJ&hl=zh-CN&oi=sra) in SDS, CUHKSZ and Shenzhen Institute of Artificial Intelligence and Robotics for Society ([AIRS](https://airs.cuhk.edu.cn)).
 
@@ -27,8 +31,8 @@ Before that, I worked as a research assistant with Prof. [Junge Zhang](http://pe
 
 ## News
 
-* **[June 14, 2024]** The paper about Automatic Subgoal Generation (ASG) of MARL with LLM was accepted by [EC 2024 Workshop on Foundation Models and Game Theory](https://sites.google.com/view/workshop-fm-game/home#h.8aeu0j7s766y). [paper](https://arxiv.org/pdf/2305.10865.pdf)
-* **[Jan 24, 2022]** The paper about Nussbaum functions-based consensus control of MAS was uploaded to arxiv. [paper](https://arxiv.org/pdf/2201.09453.pdf)
+* **[June 14, 2024]** The paper about Automatic Subgoal Generation (ASG) of MARL with LLM was accepted by [EC 2024 Workshop on Foundation Models and Game Theory](https://sites.google.com/view/workshop-fm-game/home#h.8aeu0j7s766y). [[paper](https://arxiv.org/pdf/2305.10865.pdf)]
+* **[Jan 24, 2022]** The paper about Nussbaum functions-based consensus control of MAS was uploaded to arxiv. [[paper](https://arxiv.org/pdf/2201.09453.pdf)]
 
 ## Research Interests
 
@@ -36,6 +40,7 @@ My research interests include:
 * Multi-agent Reinforcement Learning
 * Sequetial Social Dilemma
 * Diffusion Models
+* Large Language Models & Agents
 
 
 
@@ -50,7 +55,7 @@ My research interests include:
 ## Pre-prints
 
   
-* **D. Qiao**, J. Zhang*, Y. Zhang, S. Xiao, H. Chen, &quot;Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems &quot;. Preprint, 2022. [[pdf](https://qiaodan-cuhk.github.io/files/DPMARL_draft.pdf)] Chinese Patent
+* **D. Qiao**, J. Zhang*, Y. Zhang, S. Xiao, H. Chen, &quot;Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems &quot;. Chinese Patent, 2022. [[pdf](https://qiaodan-cuhk.github.io/files/DPMARL_draft.pdf)] 
 
 * **D. Qiao**, Z. Peng*, G. Wen, T. Huang, &quot;[Novel Saturated Nussbaum-type Function based Adaptive Distributed Consensus Control of Multi-agent Systems with Unknown Arbitrary Control Directions](https://arxiv.org/abs/2201.09453v1)&quot;. Preprint arXiv:2201.09453, 2022. [[pdf](https://arxiv.org/pdf/2201.09453.pdf)] 
 
