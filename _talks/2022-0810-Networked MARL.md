@@ -3,7 +3,7 @@ title: "Presentation about networked MARL systems"
 collection: talks
 type: "Presentations"
 permalink: /talks/2022-0810-Networked MARL
-venue: "Peiking University, School of Computer Science"
+venue: "Peking University, School of Computer Science"
 excerpt: 'A presentation about networked MARL with decentralized training and decentralized execution.'
 date: 2022-08-10
 ---

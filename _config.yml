@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dan Qiao's Homepage"
 title_separator          : "-"
 name                     : &name "Dan Qiao"
-description              : &description "Ph.D. Student"
+description              : &description "Ph.D. Candidate"
 url                      : "https://qiaodan-cuhk.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qiaodan-cuhk/qiaodan-cuhk.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Shenzhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=YwyDZVcAAAAJ&hl"
   email            : "danqiao@link.cuhk.edu.cn"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
