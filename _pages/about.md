@@ -19,9 +19,9 @@ redirect_from:
 
 ## About me 
 
-I’m currently a year-2 Ph.D. student advised by Assistant Prof. [Baoxiang Wang](https://bxiangwang.github.io) and Prof. [Hongyuan Zha](https://scholar.google.com/citations?user=n1DQMIsAAAAJ&hl=en&oi=ao) in the [School of Data Science](https://sds.cuhk.edu.cn/en) at the [Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en). My research interests mainly focus on **multi-agent reinforcement learning**, **multi-agent systems**, and **social systems**. For more details, please refer to my [google scholar](https://scholar.google.com/citations?user=YwyDZVcAAAAJ&hl=zh-CN&oi=ao).
+I’m currently a year-3 Ph.D. candidate advised by Assistant Prof. [Baoxiang Wang](https://bxiangwang.github.io) and Prof. [Hongyuan Zha](https://scholar.google.com/citations?user=n1DQMIsAAAAJ&hl=en&oi=ao) in the [School of Data Science](https://sds.cuhk.edu.cn/en) at the Chinese University of Hong Kong, Shenzhen (CUHKSZ). My research interests mainly focus on **multi-agent reinforcement learning**, **LLM post-training**, **multi-agent systems**, and **social welfare**. For more details, please refer to my [google scholar](https://scholar.google.com/citations?user=YwyDZVcAAAAJ&hl=zh-CN&oi=ao).
 
-Before that, I worked as a research assistant with Prof. [Junge Zhang](https://scholar.google.com/citations?user=gbStvusAAAAJ&hl=en&oi=ao) at the Institute of Automation, Chinese Academy of Sciences (CASIA). I got my Master's Degree and B.Eng. Degree in Automotive Engineering, advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.html), at the School of Transportation Science and Engineering, Beihang University in 2021 and 2018 respectively. I was fortunate to advised by Dr. [Wenhao Li](https://scholar.google.com/citations?user=HAtzuaYAAAAJ&hl=en&oi=ao) in SDS, CUHKSZ and Shenzhen Institute of Artificial Intelligence and Robotics for Society ([AIRS](https://airs.cuhk.edu.cn)).
+Before that, I worked as a research assistant with Prof. [Junge Zhang](https://scholar.google.com/citations?user=gbStvusAAAAJ&hl=en&oi=ao) at the Institute of Automation, Chinese Academy of Sciences (CASIA). I got my Master's Degree and B.Eng. Degree in Automotive Engineering, advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.html), at the School of Transportation Science and Engineering, Beihang University in 2021 and 2018 respectively. I was fortunate to advised by Assistant Prof. [Wenhao Li](https://scholar.google.com/citations?user=HAtzuaYAAAAJ&hl=en&oi=ao) in Tongji University.
 
 ## Education
 
@@ -31,8 +31,7 @@ Before that, I worked as a research assistant with Prof. [Junge Zhang](https://s
 
 ## News
 
-* **[June 14, 2024]** The paper about Automatic Subgoal Generation (ASG) of MARL with LLM was accepted by [EC 2024 Workshop on Foundation Models and Game Theory](https://sites.google.com/view/workshop-fm-game/home#h.8aeu0j7s766y). [[paper](https://arxiv.org/pdf/2305.10865.pdf)]
-* **[Jan 24, 2022]** The paper about Nussbaum functions-based consensus control of MAS was uploaded to arxiv. [[paper](https://arxiv.org/pdf/2201.09453.pdf)]
+* **[March 20, 2025]** The paper about Automatic Subgoal Generation (ASG) of MARL with LLM was accepted by [AISTATS 2025]. [[paper](https://openreview.net/forum?id=2kIYWdFU0x)]
 
 ## Research Interests
 
@@ -62,19 +61,10 @@ My research interests include:
 
 ## Publications
 
-* W. Li, **D. Qiao**, B. Wang, X. Wang, B. Jin, H. Zha, &quot;[Semantically Aligned Task Decomposition in Multi-Agent Reinforcement Learning](https://sites.google.com/view/workshop-fm-game/home#h.8aeu0j7s766y)&quot;. EC 2024 Workshop, 2024.  [[pdf](https://arxiv.org/pdf/2305.10865.pdf)]
+* W. Li, **D. Qiao**, B. Wang, X. Wang, B. Jin, H. Zha, &quot; Multi-Agent Credit Assignment with Pretrained Language Models &quot;. AISTATS, 2025.  [[pdf](https://openreview.net/forum?id=2kIYWdFU0x)]
 
-* S. Yang, Y. Hua, **D. Qiao**, Y. Lian, Y. Pan*, Y. He, &quot;[A coupled electrochemical-thermal-mechanical degradation modelling approach for lifetime assessment of lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S0013468619317992)&quot;. Electrochimica Acta, Vol. 326, Dec. 2019, 134928. [[pdf](https://www.sciencedirect.com/science/article/pii/S0013468619317992)] 
+* S. Yang, Y. Hua, **D. Qiao**, Y. Lian, Y. Pan*, Y. He, &quot; A coupled electrochemical-thermal-mechanical degradation modelling approach for lifetime assessment of lithium-ion batteries &quot;. Electrochimica Acta, Vol. 326, Dec. 2019, 134928. [[pdf](https://www.sciencedirect.com/science/article/pii/S0013468619317992)] 
 
-<!-- * **Siteng Huang**, Min Zhang, Yachen Kang, Donglin Wang, &quot;[Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16957)&quot;. In *Proceedings of the 35th AAAI Conference on Artificial Intelligence* (**AAAI 2021**). [[project page](https://kyonhuang.top/publication/attributes-guided-attention-module)] [[arXiv](https://arxiv.org/abs/2009.04724)] [[bib](https://kyonhuang.top/publication/attributes-guided-attention-module#bibtex)] [[code](https://github.com/bighuang624/AGAM)] [[poster](https://kyonhuang.top/files/AGAM/aaai21-AGAM-poster.pdf)] [[slide](https://kyonhuang.top/files/AGAM/aaai21-AGAM-presentation.pdf)]
-
-* Zhengyu Chen, Jixie Ge, Heshen Zhan, **Siteng Huang**, Donglin Wang, &quot;[Pareto Self-Supervised Training for Few-Shot Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Pareto_Self-Supervised_Training_for_Few-Shot_Learning_CVPR_2021_paper.html)&quot;. In *Proceedings of the 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR 2021**). [[arXiv](https://arxiv.org/abs/2104.07841)]
-
-* Zifeng Zhuang, Xintao Xiang, **Siteng Huang**, Donglin Wang, &quot;[HINFShot: A Challenge Dataset for Few-Shot Node Classification in Heterogeneous Information Network](https://dl.acm.org/doi/10.1145/3460426.3463614)&quot;. In *Proceedings of the 2021 International Conference on Multimedia Retrieval* (**ICMR 2021**). [[pdf](https://kyonhuang.top/files/HINFShot/ICMR21-HINFShot.pdf)]
-
-* Min Zhang, **Siteng Huang**, Donglin Wang, &quot;[Domain Generalized Few-shot Image Classification via Meta Regularization Network](https://ieeexplore.ieee.org/abstract/document/9747620)&quot;. In *Proceedings of the 2022 IEEE International Conference on Acoustics, Speech and Signal Processing* (**ICASSP 2022**). [[pdf](https://kyonhuang.top/files/MRN/ICASSP22-MRN.pdf)]
-
-* Min Zhang, **Siteng Huang**, Wenbin Li, Donglin Wang, &quot;Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation&quot;. In *Proceedings of the European Conference on Computer Vision 2022* (**ECCV 2022**). [[arXiv](https://arxiv.org/abs/2207.06989)]  -->
 
 ## Misc
 
