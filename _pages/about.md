@@ -19,19 +19,19 @@ redirect_from:
 
 ## About me 
 
-I’m currently a year-3 Ph.D. candidate advised by Assistant Prof. [Baoxiang Wang](https://bxiangwang.github.io) and Prof. [Hongyuan Zha](https://scholar.google.com/citations?user=n1DQMIsAAAAJ&hl=en&oi=ao) in the [School of Data Science](https://sds.cuhk.edu.cn/en) at the Chinese University of Hong Kong, Shenzhen (CUHKSZ). My research interests mainly focus on **multi-agent reinforcement learning**, **LLM post-training**, **multi-agent systems**, and **social welfare**. For more details, please refer to my [google scholar](https://scholar.google.com/citations?user=YwyDZVcAAAAJ&hl=zh-CN&oi=ao).
+I’m currently a year-4 Ph.D. candidate advised by Assistant Prof. [Baoxiang Wang](https://bxiangwang.github.io) and Prof. [Hongyuan Zha](https://scholar.google.com/citations?user=n1DQMIsAAAAJ&hl=en&oi=ao) in the [School of Data Science](https://sds.cuhk.edu.cn/en) at the Chinese University of Hong Kong, Shenzhen (CUHKSZ). My research interests mainly focus on **multi-agent reinforcement learning**, **LLM post-training**, **multi-agent systems**, and **social welfare**. My PhD topic is focusing on "How to maintain cooperation of multiple AI agents in an autonomous AI-decision making society". For more details, please refer to my [google scholar](https://scholar.google.com/citations?user=YwyDZVcAAAAJ&hl=zh-CN&oi=ao).
 
-Before that, I worked as a research assistant with Prof. [Junge Zhang](https://scholar.google.com/citations?user=gbStvusAAAAJ&hl=en&oi=ao) at the Institute of Automation, Chinese Academy of Sciences (CASIA). I got my Master's Degree and B.Eng. Degree in Automotive Engineering, advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.html), at the School of Transportation Science and Engineering, Beihang University in 2021 and 2018 respectively. I was fortunate to advised by Assistant Prof. [Wenhao Li](https://scholar.google.com/citations?user=HAtzuaYAAAAJ&hl=en&oi=ao) in Tongji University.
+Before that, I got my Master's Degree and B.Eng. Degree in Automotive Engineering, advised by Associate Prof. [Zhaoxia Peng](http://transportation.buaa.edu.cn/info/1092/4827.html), at the School of Transportation Science and Engineering, Beihang University in 2021 and 2018 respectively. I worked as a research assistant with Prof. [Junge Zhang](https://scholar.google.com/citations?user=gbStvusAAAAJ&hl=en&oi=ao) at the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2022. I am also fortunate to collaborate with Assistant Prof. [Wenhao Li](https://scholar.google.com/citations?user=HAtzuaYAAAAJ&hl=en&oi=ao) in Tongji University, Dr. [Binbin Chen](https://scholar.google.com/citations?user=2D-PXZ8AAAAJ&hl=zh-CN&oi=ao) in ByteDance Inc., Dr. [Lei Song](https://scholar.google.com/citations?user=pXDSOocAAAAJ&hl=zh-CN) and Dr. [Jiang Bian](https://scholar.google.com/citations?user=pZBEnY8AAAAJ&hl=zh-CN) in MicroSoft Research Asia. Grateful to all collaborators and mentors for their passion for research and selfless support throughout my academic journey.
 
 ## Education
 
-* 2022 - Present, Ph.D. Student - Computer Science, the Chinese University of Hong Kong, Shenzhen, China
+* 2022 - Present, Ph.D. Candidate - Computer Science, the Chinese University of Hong Kong, Shenzhen, China
 * 2018 - 2021, M. Eng - Automotive Engineering, Beihang University, China
 * 2014 - 2018, B. Eng - Automotive Engineering, Beihang University, China
 
-## News
+<!-- ## News
+ -->
 
-* **[March 20, 2025]** The paper about Automatic Subgoal Generation (ASG) of MARL with LLM was accepted by [AISTATS 2025]. [[paper](https://openreview.net/forum?id=2kIYWdFU0x)]
 
 ## Research Interests
 
@@ -40,6 +40,7 @@ My research interests include:
 * Sequetial Social Dilemma
 * Diffusion Models
 * Large Language Models & Agents
+* Learning Mechanism Design for Social Welfare
 
 
 
@@ -53,15 +54,21 @@ My research interests include:
 
 ## Pre-prints
 
+* **D. Qiao**, W. Li, S. Yang, H. Zha, B. Wang*, Offline Multi-Agent Reinforcement Learning via Sequential Score Decomposition, Preprint, arXiv:2505.05968. 2025
   
-* **D. Qiao**, J. Zhang*, Y. Zhang, S. Xiao, H. Chen, &quot;Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems &quot;. Chinese Patent, 2022. [[pdf](https://qiaodan-cuhk.github.io/files/DPMARL_draft.pdf)] 
+* **D. Qiao**, J. Zhang*, Y. Zhang, S. Xiao, H. Chen, &quot;Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems &quot;. Chinese Patent BZ-PT235864-P2023xxxx, 2022. 
+
+<!-- [[pdf](https://qiaodan-cuhk.github.io/files/DPMARL_draft.pdf)]  -->
 
 * **D. Qiao**, Z. Peng*, G. Wen, T. Huang, &quot;[Novel Saturated Nussbaum-type Function based Adaptive Distributed Consensus Control of Multi-agent Systems with Unknown Arbitrary Control Directions](https://arxiv.org/abs/2201.09453v1)&quot;. Preprint arXiv:2201.09453, 2022. [[pdf](https://arxiv.org/pdf/2201.09453.pdf)] 
 
 
 ## Publications
 
-* W. Li, **D. Qiao**, B. Wang, X. Wang, B. Jin, H. Zha, &quot; Multi-Agent Credit Assignment with Pretrained Language Models &quot;. AISTATS, 2025.  [[pdf](https://openreview.net/forum?id=2kIYWdFU0x)]
+* Z. Li†, **D. Qiao**†, A. Rahman, Y. Du, S. Leonardos*, S. V. Albrecht, STAR-MARL: LLM-based Sub-task Curricula Design,
+LAMAS Workshop at AAAI-2026. 2025
+
+* W. Li, **D. Qiao**, B. Wang, X. Wang, B. Jin, H. Zha*, &quot; Multi-Agent Credit Assignment with Pretrained Language Models &quot;. AISTATS, 2025.  [[pdf](https://openreview.net/forum?id=2kIYWdFU0x)]
 
 * S. Yang, Y. Hua, **D. Qiao**, Y. Lian, Y. Pan*, Y. He, &quot; A coupled electrochemical-thermal-mechanical degradation modelling approach for lifetime assessment of lithium-ion batteries &quot;. Electrochimica Acta, Vol. 326, Dec. 2019, 134928. [[pdf](https://www.sciencedirect.com/science/article/pii/S0013468619317992)] 
 

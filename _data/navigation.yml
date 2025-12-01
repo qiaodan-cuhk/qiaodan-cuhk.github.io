@@ -6,11 +6,11 @@ main:
   #- title: "News"
   #  url: /news/  
 
-  - title: "Presentations"
-    url: /talks/    
+  # - title: "Presentations"
+  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   # - title: "Seminar"
   #   url: /seminar/
