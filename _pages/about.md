@@ -29,6 +29,17 @@ Before that, I got my Master's Degree and B.Eng. Degree in Automotive Engineerin
 * 2018 - 2021, M. Eng - Automotive Engineering, Beihang University, China
 * 2014 - 2018, B. Eng - Automotive Engineering, Beihang University, China
 
+## Internship
+
+* **Microsoft Research Asia (MSRA)**, Algorithm Intern, Dec 2025 - Present  
+  Research topic: improving Agentic RL training efficiency via data selection.
+* **ByteDance Inc.**, Algorithm Intern, Apr 2025 - Nov 2025  
+  Research topic: multi-agent reinforcement learning fine-tuning and collaborative reasoning with multiple large language models.
+* **Gusheng Intelligence (Shenzhen)**, Algorithm Intern, Dec 2024 - Feb 2025  
+  Worked on distributed RL training for racing strategies in a racing game; achieved expert-level lap-time policies, benchmarking Sony-related studies.
+* **Institute of Automation, Chinese Academy of Sciences (CASIA)**, Research Assistant, Sep 2021 - Jun 2022  
+  Research topic: privacy-preserving distributed networked multi-agent reinforcement learning algorithm design and convergence analysis.
+
 <!-- ## News
  -->
 
@@ -54,23 +65,15 @@ My research interests include:
 
 ## Pre-prints
 
-* **D. Qiao**, W. Li, S. Yang, H. Zha, B. Wang*, Offline Multi-Agent Reinforcement Learning via Sequential Score Decomposition, Preprint, arXiv:2505.05968. 2025
-  
-* **D. Qiao**, J. Zhang*, Y. Zhang, S. Xiao, H. Chen, &quot;Privacy-preserved Fully Decentralized Multi-agent Reinforcement Learning for Networked Social Systems &quot;. Chinese Patent BZ-PT235864-P2023xxxx, 2022. 
-
-<!-- [[pdf](https://qiaodan-cuhk.github.io/files/DPMARL_draft.pdf)]  -->
-
-* **D. Qiao**, Z. Peng*, G. Wen, T. Huang, &quot;[Novel Saturated Nussbaum-type Function based Adaptive Distributed Consensus Control of Multi-agent Systems with Unknown Arbitrary Control Directions](https://arxiv.org/abs/2201.09453v1)&quot;. Preprint arXiv:2201.09453, 2022. [[pdf](https://arxiv.org/pdf/2201.09453.pdf)] 
+* **D. Qiao**, et al., Epistemic Gain, Aleatoric Cost: Uncertainty Decomposition in Multi-Agent Debate for Math Reasoning. ICML Submission (Under Review), 2026. [arXiv:2603.01221](https://arxiv.org/abs/2603.01221)
+* **D. Qiao**, W. Li, S. Yang, H. Zha, B. Wang*, Offline Multi-Agent Reinforcement Learning via Sequential Score Decomposition. ICML Submission (Under Review), 2026. [arXiv:2505.05968](https://arxiv.org/abs/2505.05968)
+* **D. Qiao**, G. Wen, Z. Peng*, Novel Saturated Nussbaum-type Function based Adaptive Distributed Consensus Control of Multi-agent Systems with Unknown Arbitrary Control Directions. Preprint, 2021. [arXiv:2201.09453](https://arxiv.org/abs/2201.09453)
 
 
 ## Publications
 
-* Z. Li†, **D. Qiao**†, A. Rahman, Y. Du, S. Leonardos*, S. V. Albrecht, STAR-MARL: LLM-based Sub-task Curricula Design,
-LAMAS Workshop at AAAI-2026. 2025
-
-* W. Li, **D. Qiao**, B. Wang, X. Wang, B. Jin, H. Zha*, &quot; Multi-Agent Credit Assignment with Pretrained Language Models &quot;. AISTATS, 2025.  [[pdf](https://openreview.net/forum?id=2kIYWdFU0x)]
-
-* S. Yang, Y. Hua, **D. Qiao**, Y. Lian, Y. Pan*, Y. He, &quot; A coupled electrochemical-thermal-mechanical degradation modelling approach for lifetime assessment of lithium-ion batteries &quot;. Electrochimica Acta, Vol. 326, Dec. 2019, 134928. [[pdf](https://www.sciencedirect.com/science/article/pii/S0013468619317992)] 
+* Z. Li*, **D. Qiao***, A. Rahman, S. Leonardos, Y. Du, S. V. Albrecht, STAR-MARL: LLM-based Sub-task Curricula Design. AAAI 2026 LaMAS Workshop.
+* W. Li, **D. Qiao**, B. Wang, X. Wang, B. Jin, H. Zha*, Multi-Agent Credit Assignment with Pretrained Language Models. AISTATS 2025. [[pdf](https://openreview.net/forum?id=2kIYWdFU0x)]
 
 
 ## Misc
