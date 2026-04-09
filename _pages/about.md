@@ -31,14 +31,14 @@ Before that, I got my Master's Degree and B.Eng. Degree in Automotive Engineerin
 
 ## Internship
 
-* **Microsoft Research Asia (MSRA)**, Algorithm Intern, Dec 2025 - Present  
-  Research topic: improving Agentic RL training efficiency via data selection.
-* **ByteDance Inc.**, Algorithm Intern, Apr 2025 - Nov 2025  
-  Research topic: multi-agent reinforcement learning fine-tuning and collaborative reasoning with multiple large language models.
-* **Gusheng Intelligence (Shenzhen)**, Algorithm Intern, Dec 2024 - Feb 2025  
-  Worked on distributed RL training for racing strategies in a racing game; achieved expert-level lap-time policies, benchmarking Sony-related studies.
-* **Institute of Automation, Chinese Academy of Sciences (CASIA)**, Research Assistant, Sep 2021 - Jun 2022  
-  Research topic: privacy-preserving distributed networked multi-agent reinforcement learning algorithm design and convergence analysis.
+* Dec 2025 - Present, Algorithm Intern - Microsoft Research Asia (MSRA), Beijing, China  
+  Research topic: data selection for more efficient Agentic RL training.
+* Apr 2025 - Nov 2025, Algorithm Intern - ByteDance Inc., Beijing, China  
+  Research topic: MARL fine-tuning and collaborative reasoning with multiple LLMs.
+* Dec 2024 - Feb 2025, Algorithm Intern - Gusheng Intelligence, Shenzhen, China  
+  Research topic: distributed RL training for racing-game strategy learning.
+* Sep 2021 - Jun 2022, Research Assistant - Institute of Automation, CAS (CASIA), Beijing, China  
+  Research topic: privacy-preserving distributed networked MARL and convergence analysis.
 
 <!-- ## News
  -->
@@ -49,9 +49,8 @@ Before that, I got my Master's Degree and B.Eng. Degree in Automotive Engineerin
 My research interests include:
 * Multi-agent Reinforcement Learning
 * Sequetial Social Dilemma
-* Diffusion Models
 * Large Language Models & Agents
-* Learning Mechanism Design for Social Welfare
+* Mechanism Design for Social Welfare
 
 
 
