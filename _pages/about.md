@@ -30,8 +30,9 @@ Before that, I got my Master's Degree and B.Eng. Degree in Automotive Engineerin
 * 2014 - 2018, B. Eng - Automotive Engineering, Beihang University, China
 
 ## Internship
-
-* Dec 2025 - Present, Algorithm Intern - Microsoft Research Asia (MSRA), Beijing, China  
+* May 2026 - Present, Algorithm Intern - XYZL AI Research Institute, Shanghai, China  
+  Research topic: Agentic RL post-training pipeline.
+* Dec 2025 - Apr 2026, Algorithm Intern - Microsoft Research Asia (MSRA), Beijing, China  
   Research topic: data selection for more efficient Agentic RL training.
 * Apr 2025 - Nov 2025, Algorithm Intern - ByteDance Inc., Beijing, China  
   Research topic: MARL fine-tuning and collaborative reasoning with multiple LLMs.
@@ -64,13 +65,13 @@ My research interests include:
 
 ## Pre-prints
 
-* **D. Qiao**, et al., Epistemic Gain, Aleatoric Cost: Uncertainty Decomposition in Multi-Agent Debate for Math Reasoning. ICML Submission (Under Review), 2026. [arXiv:2603.01221](https://arxiv.org/abs/2603.01221)
-* **D. Qiao**, W. Li, S. Yang, H. Zha, B. Wang*, Offline Multi-Agent Reinforcement Learning via Sequential Score Decomposition. ICML Submission (Under Review), 2026. [arXiv:2505.05968](https://arxiv.org/abs/2505.05968)
+* Y. Lin*, S. Zhu, W. Li, A. Li, **D. Qiao**, P. Poupart, H. Zha, B. Wang*, Policy-Conditioned Policies for Multi-Agent Task Solving, 2025. [arXiv:2512.21024](https://arxiv.org/abs/2512.21024)
 * **D. Qiao**, G. Wen, Z. Peng*, Novel Saturated Nussbaum-type Function based Adaptive Distributed Consensus Control of Multi-agent Systems with Unknown Arbitrary Control Directions. Preprint, 2021. [arXiv:2201.09453](https://arxiv.org/abs/2201.09453)
 
 
 ## Publications
-
+* **D. Qiao**, et al., Epistemic Gain, Aleatoric Cost: Uncertainty Decomposition in Multi-Agent Debate for Math Reasoning. ICML'2026. [arXiv:2603.01221](https://arxiv.org/abs/2603.01221)
+* **D. Qiao**, W. Li, S. Yang, H. Zha, B. Wang*, Offline Multi-Agent Reinforcement Learning via Sequential Score Decomposition. ICML'2026. [arXiv:2505.05968](https://arxiv.org/abs/2505.05968)
 * Z. Li*, **D. Qiao***, A. Rahman, S. Leonardos, Y. Du, S. V. Albrecht, STAR-MARL: LLM-based Sub-task Curricula Design. AAAI 2026 LaMAS Workshop.
 * W. Li, **D. Qiao**, B. Wang, X. Wang, B. Jin, H. Zha*, Multi-Agent Credit Assignment with Pretrained Language Models. AISTATS 2025. [[pdf](https://openreview.net/forum?id=2kIYWdFU0x)]
 
